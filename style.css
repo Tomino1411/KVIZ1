@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.btn {
+    position: relative;
+    text-decoration: none;
+    color: black;
+    border: 1px solid red;
+    padding: 10px 30px;
+    background-color: orange;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.divA {
+    text-align: center;
+    padding-top: 200px;
+}
+.divB {
+    text-align: center;
+    padding-top: 150px;
+}
+.prompt {
+    position: relative;
+    padding: 10px 30px;
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: -50px;
+}
+.btn2 {
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 55px;
+}
+.btn3 {
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 55px;
+}
+.btn4 {
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 55px;
+}
+.btn5 {
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 55px;
+}
+h3 {
+    font-weight: 400;
+    text-align: center;
+}
+.btn1 {
+    position: relative;
+    text-decoration: none;
+    color: black;
+    border: 1px solid red;
+    padding: 10px 30px;
+    background-color: orange;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.prompt1 {
+    position: relative;
+    padding: 10px 30px;
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: -50px;
+}
